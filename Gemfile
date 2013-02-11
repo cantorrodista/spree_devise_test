@@ -9,6 +9,8 @@ gem 'rails', '3.2.11'
 
 gem 'mysql2'
 gem 'spree', :git => 'git://github.com/spree/spree.git'
+gem "spree_auth_devise", :git => "git://github.com/spree/spree_auth_devise"
+
 
 # Gems used only for assets and not required
 # in production environments by default.
