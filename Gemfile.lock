@@ -44,8 +44,7 @@ GIT
 
 GIT
   remote: git://github.com/spree/spree_auth_devise
-  revision: cf0500a2faa1320a0f69224d79aea1f815a47693
-  ref: cf0500a2faa1320a0f69224d79aea1f815a47693
+  revision: c6b1c59592d906b86e6a918c424d682b464b6aee
   specs:
     spree_auth_devise (1.0.0)
       cancan (~> 1.6.7)

@@ -9,7 +9,7 @@ if defined?(Bundler)
   # Bundler.require(:default, :assets, Rails.env)
 end
 
-module Primeriti
+module TestApp
   class Application < Rails::Application
     
     config.to_prepare do
